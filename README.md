@@ -1,3 +1,3 @@
 # studyNode-React
 
-Aplicação voltada para estudo.
+Repositório voltado para estudo. #Omnistack.
