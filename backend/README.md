@@ -12,6 +12,8 @@
     4. Celebrate: Lib para auxiliar na realização das validações.
 
     5. Jest: Lib para Testes;
+
+    6. Supertest: Lib para fazer chamadas nas rotas das APIs voltadas para testes.
    
 ## Sobre o database
     - Passo a passo para criar/alterar tabelas no DB utilizando as migrations com knex
